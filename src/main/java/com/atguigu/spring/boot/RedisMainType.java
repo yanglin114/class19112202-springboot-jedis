@@ -10,5 +10,5 @@ public class RedisMainType {
         SpringApplication.run(RedisMainType.class, args);
     }
 
-    //在feature-god 分支锁做修改
+    //在feature-god 分支锁做修改(good分支)
 }
